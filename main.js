@@ -1,3 +1,7 @@
-const houseArray = ["Hufflepuff", "Ravenclaw", "Gryffindor", "Slytherin"];
+const houseArray = ['Hufflepuff', 'Ravenclaw', 'Gryffindor', 'Slytherin'];
 
-console.log(houseArray)
+const students = [];
+const input = document.getElementById('enterStudentName');
+const screen = document.getElementById('studentName');
+
+document.getElementById('sort').onclick = const()
